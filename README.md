@@ -17,16 +17,16 @@
 ### Week 1 U Stage
 
 - [DAY 1 MON] 타운홀미팅 및 그라운드룰 설정 
-- [DAY 2 TUE] 
+- [DAY 2 TUE] [프로그래머스 피로도](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week1/Tue)
 - [DAY 3 WED] 대통령 선거 
-- [DAY 4 THR] 
-- [DAY 5 FRI] 
+- [DAY 4 THR] [프로그래머스 주식가격](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week1/Thu)
+- [DAY 5 FRI] [백준 Z](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week1/Fri)
 
 ### Week 2 U Stage
 
-- [DAY 1 MON] 
-- [DAY 2 TUE] 
-- [DAY 3 WED] 테크톡(깃허브특강)
+- [DAY 1 MON] [LeetCode find_peak_element](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week2/Mon)
+- [DAY 2 TUE] 테크톡(깃허브특강)
+- [DAY 3 WED] 
 - [DAY 4 THR] 
 - [DAY 5 FRI] 
 
