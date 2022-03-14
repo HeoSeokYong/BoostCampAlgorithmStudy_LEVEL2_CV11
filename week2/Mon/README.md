@@ -12,6 +12,19 @@
 * nums[i] != nums[i + 1] for all valid i
 * O(logn) 시간 복잡도로 해결하라.
 
+## 입출력 예
+```
+Input: nums = [1,2,3,1]
+Output: 2
+Explanation: 3 is a peak element and your function should return the index number 2.
+
+```
+
+```
+Input: nums = [1,2,1,3,5,6,4]
+Output: 5
+Explanation: Your function can return either index number 1 where the peak element is 2, or index number 5 where the peak element is 6.
+```
 
 ## 페어프로그래밍을 통한 해결 방식
 1. 선형 탐색으로는 쉽게 해결할 수 있을 것 같은데, O(logn)으로 해결하는 방법을 쉽게 떠올리지 못했다.
