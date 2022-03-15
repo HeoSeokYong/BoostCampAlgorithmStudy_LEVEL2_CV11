@@ -25,7 +25,7 @@
 ### Week 2 U Stage
 
 - [DAY 1 MON] [LeetCode find_peak_element](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week2/Mon)
-- [DAY 2 TUE] 테크톡(깃허브특강)
+- [DAY 2 TUE] [프로그래머스 정수 삼각형](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week2/Tue) 테크톡(깃허브특강)
 - [DAY 3 WED] 
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
