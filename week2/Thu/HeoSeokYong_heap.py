@@ -1,33 +1,19 @@
 import heapq
 
 def solution(jobs):
+    jobs.sort()
     heap = []
     len_j = len(jobs)
-    
-    jobs.sort()
-    
-    timee = jobs[0][0]
-    cur = 0
-    answer = 0
-    
+    tim, answer = jobs[0][0], 0
     heapq.heappush(heap, jobs.pop(0)[::-1])
-    
     while heap:
         hpop = heapq.heappop(heap)
-        timee += hpop[0]
-        cur += hpop[1]
-        answer += timee - hpop[1]
-
+        tim += hpop[0]
+        answer += tim - hpop[1]
         if jobs:
-            tmp = [x for x in jobs if x[0] <= timee]
-            if len(tmp) != 0:
-                for t in tmp:
-                    heapq.heappush(heap, t[::-1])
-                    jobs.remove(t)
-
+            for t in [x for x in jobs if x[0] <= tim]:
+                heapq.heappush(heap, jobs.pop(jobs.index(t))[::-1])
             if not heap:
-                if timee < jobs[0][0]:
-                    timee = jobs[0][0]
-                heapq.heappush(heap, jobs.pop(0)[::-1])
-                
+                tim = jobs[0][0]
+                heapq.heappush(heap, jobs.pop(0)[::-1])  
     return answer // len_j
