@@ -28,8 +28,7 @@
 - [DAY 2 TUE] [프로그래머스 정수 삼각형](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week2/Tue) 테크톡(깃허브특강)
 - [DAY 3 WED] [프로그래머스 베스트앨범](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week2/Wed)
 - [DAY 4 THU] [프로그래머스 디스크 컨트롤러](https://github.com/seohl16/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week2/Thu)
-- [DAY 5 FRI] 
-
+- [DAY 5 FRI] [백준 창고다각형](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week2/Fri)
 
 
 
