@@ -7,3 +7,6 @@ for s in sik_mp:
   answer -= sum(s)
 
 print(answer)
+
+# 1 line code
+# print(eval('-'.join([str(eval("+".join([str(int(j)) for j in i.split('+')]))) for i in input().split('-')])))
