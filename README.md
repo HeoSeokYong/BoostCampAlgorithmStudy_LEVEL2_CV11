@@ -33,7 +33,7 @@
 ### Week 3 P Stage 
 
 - [DAY 1 MON] [백준 잃어버린 괄호](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week3/Mon)
-- [DAY 2 TUE] 
+- [DAY 2 TUE] [프로그래머스 땅따먹기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week3/Tue)
 - [DAY 3 WED] 
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
