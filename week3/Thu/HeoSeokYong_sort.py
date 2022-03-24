@@ -1,12 +1,9 @@
-sik = input()
-sik_mp = [list(map(int, i.split('+'))) for i in sik.split('-')]
+def solution(citations):
 
-answer = sum(sik_mp.pop(0))
+    cit = sorted(citations, reverse=True)
+    
+    for h in range(min(cit[0], len(cit)), 0, -1):
+        if len([_ for _ in cit if _ >= h]) >= h:
+            return h
 
-for s in sik_mp:
-  answer -= sum(s)
-
-print(answer)
-
-# 1 line code
-# print(eval('-'.join([str(eval("+".join([str(int(j)) for j in i.split('+')]))) for i in input().split('-')])))
+    return 0
