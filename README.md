@@ -35,7 +35,7 @@
 - [DAY 1 MON] [백준 잃어버린 괄호](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week3/Mon)
 - [DAY 2 TUE] [프로그래머스 땅따먹기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week3/Tue)
 - [DAY 3 WED] [프로그래머스 큰 수 만들기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week3/Wed)
-- [DAY 4 THU] 
+- [DAY 4 THU] [프로그래머스 H-Index](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week3/Thu)
 - [DAY 5 FRI] 
 
 ### Week 4 P Stage 
