@@ -44,7 +44,7 @@
 - [DAY 2 TUE] 
 - [DAY 3 WED] [프로그래머스 외벽점검](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week4/Wed) 어렵!!!
 - [DAY 4 THU] [프로그래머스 행렬곱셈](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week4/Thu)
-- [DAY 5 FRI] 
+- [DAY 5 FRI] [백준 N-Queen](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week4/Fri)
 
 
 ### Week 5 P Stage 
