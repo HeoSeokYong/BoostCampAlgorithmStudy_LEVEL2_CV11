@@ -49,11 +49,18 @@
 
 ### Week 5 P Stage 
 
-- [DAY 1 MON] 
+- [DAY 1 MON] [백준 연산자 끼워넣기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week5/Mon)
 - [DAY 2 TUE] 
 - [DAY 3 WED] 
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
 
+### Week 6 U Stage 
+
+- [DAY 1 MON] 
+- [DAY 2 TUE] 
+- [DAY 3 WED] 
+- [DAY 4 THU] 
+- [DAY 5 FRI] 
 
 
