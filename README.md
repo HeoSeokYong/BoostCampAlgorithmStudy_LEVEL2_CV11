@@ -50,9 +50,9 @@
 ### Week 5 P Stage 
 
 - [DAY 1 MON] [백준 연산자 끼워넣기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week5/Mon)
-- [DAY 2 TUE] 
-- [DAY 3 WED] 
-- [DAY 4 THU] 
+- [DAY 2 TUE] [프로그래머스 게임 맵 최단거리](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week5/Tue)
+- [DAY 3 WED] [프로그래머스 입국심사](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week5/Wed)
+- [DAY 4 THU] [백준 가장 긴 증가하는 부분 순열 2](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week5/Thu)
 - [DAY 5 FRI] 
 
 ### Week 6 U Stage 
