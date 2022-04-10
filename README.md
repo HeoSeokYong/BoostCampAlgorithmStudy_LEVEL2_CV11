@@ -55,9 +55,9 @@
 - [DAY 4 THU] [백준 가장 긴 증가하는 부분 순열 2](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week5/Thu)
 - [DAY 5 FRI] 
 
-### Week 6 U Stage 
+### Week 6 P Stage 
 
-- [DAY 1 MON] 
+- [DAY 1 MON] [공유기 설치](https://www.acmicpc.net/problem/2110)
 - [DAY 2 TUE] 
 - [DAY 3 WED] 
 - [DAY 4 THU] 
