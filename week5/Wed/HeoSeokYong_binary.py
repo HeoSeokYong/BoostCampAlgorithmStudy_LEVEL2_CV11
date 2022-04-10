@@ -1,7 +1,6 @@
 def solution(n, times):
     times.sort()
     answer = 0
-
     left = 1
     right = n * times[-1]
     
