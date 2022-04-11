@@ -30,7 +30,7 @@
 - [DAY 4 THU] [프로그래머스 디스크 컨트롤러](https://github.com/seohl16/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week2/Thu)
 - [DAY 5 FRI] [백준 창고다각형](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week2/Fri)
 
-### Week 3 P Stage 
+### Week 3 P Stage Object Detection 대회 
 
 - [DAY 1 MON] [백준 잃어버린 괄호](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week3/Mon)
 - [DAY 2 TUE] [프로그래머스 땅따먹기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week3/Tue)
@@ -53,11 +53,29 @@
 - [DAY 2 TUE] [프로그래머스 게임 맵 최단거리](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week5/Tue)
 - [DAY 3 WED] [프로그래머스 입국심사](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week5/Wed)
 - [DAY 4 THU] [백준 가장 긴 증가하는 부분 순열 2](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week5/Thu)
+- [DAY 5 FRI] [백준 과자 나눠주기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week5/Fri)
+
+### Week 6 P Stage OCR 대회 시작 
+
+- [DAY 1 MON] [공유기 설치](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week6/Mon)
+- [DAY 2 TUE] 
+- [DAY 3 WED] 
+- [DAY 4 THU] 
 - [DAY 5 FRI] 
 
-### Week 6 P Stage 
 
-- [DAY 1 MON] [공유기 설치](https://www.acmicpc.net/problem/2110)
+### Week 7 P Stage 
+
+- [DAY 1 MON] 
+- [DAY 2 TUE] 
+- [DAY 3 WED] 
+- [DAY 4 THU] 
+- [DAY 5 FRI] 
+
+
+### Week 8 P Stage 
+
+- [DAY 1 MON] 
 - [DAY 2 TUE] 
 - [DAY 3 WED] 
 - [DAY 4 THU] 
