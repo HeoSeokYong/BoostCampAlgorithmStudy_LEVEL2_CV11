@@ -66,7 +66,7 @@
 
 ### Week 7 P Stage 
 
-- [DAY 1 MON] 
+- [DAY 1 MON] [프로그래머스 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 - [DAY 2 TUE] 
 - [DAY 3 WED] 
 - [DAY 4 THU] 
