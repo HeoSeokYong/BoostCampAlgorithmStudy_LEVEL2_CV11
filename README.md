@@ -67,8 +67,8 @@
 ### Week 7 P Stage 
 
 - [DAY 1 MON] [프로그래머스 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
-- [DAY 2 TUE] 
-- [DAY 3 WED] 
+- [DAY 2 TUE] [](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week7/Tue)
+- [DAY 3 WED] [프로그래머스 거리두기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week7/Wed)
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
 
