@@ -1,3 +1,8 @@
+## 문제
+프로그래머스 [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
+
+---
+
 ###### 문제 설명
 
 0과 1로 이루어진 2n x 2n 크기의 2차원 정수 배열 arr이 있습니다. 당신은 이 arr을 [쿼드 트리](https://en.wikipedia.org/wiki/Quadtree)와 같은 방식으로 압축하고자 합니다. 구체적인 방식은 다음과 같습니다.
