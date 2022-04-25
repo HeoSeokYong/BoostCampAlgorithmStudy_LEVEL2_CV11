@@ -61,7 +61,7 @@
 - [DAY 2 TUE] 
 - [DAY 3 WED] [프로그래머스 보석쇼핑(카카오)](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week6/Wed)
 - [DAY 4 THU] [백준 LCS](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week6/Thu)
-- [DAY 5 FRI] 
+- [DAY 5 FRI] [백준 앱](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week6/Fri)
 
 
 ### Week 7 P Stage 
@@ -69,8 +69,8 @@
 - [DAY 1 MON] [프로그래머스 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 - [DAY 2 TUE] [](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week7/Tue)
 - [DAY 3 WED] [프로그래머스 거리두기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week7/Wed)
-- [DAY 4 THU] 
-- [DAY 5 FRI] 
+- [DAY 4 THU] [프로그래머스 쿼드압축 후 개수 세기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week7/Thu)
+- [DAY 5 FRI] [프로그래머스 기지국 설치](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week7/Fri)
 
 
 ### Week 8 P Stage 
