@@ -77,7 +77,7 @@
 
 - [DAY 1 MON] [프로그래머스 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
 - [DAY 2 TUE] 
-- [DAY 3 WED] 
+- [DAY 3 WED] [백준 두 개의 탑](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week8/Wed)
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
 
@@ -96,5 +96,4 @@
 - [DAY 3 WED] 
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
-
 
