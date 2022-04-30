@@ -79,7 +79,7 @@
 - [DAY 2 TUE] 
 - [DAY 3 WED] [백준 두 개의 탑](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week8/Wed)
 - [DAY 4 THU] [백준 부등호](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week8/Thu)
-- [DAY 5 FRI] 
+- [DAY 5 FRI] [프로그래머스 튜플](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week8/Fri)
 
 ### Week 8 P Stage 
 
