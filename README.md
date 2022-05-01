@@ -83,7 +83,7 @@
 
 ### Week 8 P Stage 
 
-- [DAY 1 MON] 
+- [DAY 1 MON] [백준 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [DAY 2 TUE] 
 - [DAY 3 WED] 
 - [DAY 4 THU] 
