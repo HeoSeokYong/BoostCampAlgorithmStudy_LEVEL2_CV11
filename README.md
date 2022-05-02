@@ -58,7 +58,7 @@
 ### Week 6 P Stage OCR 대회 시작 
 
 - [DAY 1 MON] [백준 공유기 설치](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week6/Mon)
-- [DAY 2 TUE] [최고의 집합](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week6/Tue)
+- [DAY 2 TUE] [프로그래머스 최고의 집합](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week6/Tue)
 - [DAY 3 WED] [프로그래머스 보석쇼핑(카카오)](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week6/Wed)
 - [DAY 4 THU] [백준 LCS](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week6/Thu)
 - [DAY 5 FRI] [백준 앱](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week6/Fri)
