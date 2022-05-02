@@ -72,8 +72,8 @@
 
 ### Week 8 P Stage Semantic Segmentation 대회
 
-- [DAY 1 MON] [프로그래머스 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
-- [DAY 2 TUE] 
+- [DAY 1 MON] [프로그래머스 단어 변환](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week8/Mon)
+- [DAY 2 TUE] [프로그래머스 N으로 표현](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week8/Tue)
 - [DAY 3 WED] [백준 두 개의 탑](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week8/Wed)
 - [DAY 4 THU] [백준 부등호](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week8/Thu)
 - [DAY 5 FRI] [프로그래머스 튜플](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week8/Fri)
