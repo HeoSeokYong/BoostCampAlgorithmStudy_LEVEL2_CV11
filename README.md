@@ -82,7 +82,7 @@
 
 - [DAY 1 MON] [백준 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [DAY 2 TUE] [프로그래머스 다음 큰 숫자](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week9/Tue)
-- [DAY 3 WED] 
+- [DAY 3 WED] [프로그래머스 오픈채팅방](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week9/Wed)
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
 
