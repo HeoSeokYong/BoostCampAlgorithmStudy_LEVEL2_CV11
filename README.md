@@ -80,11 +80,11 @@
 
 ### Week 9 P Stage 
 
-- [DAY 1 MON] [백준 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [DAY 1 MON] [백준 숨바꼭질](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week9/Mon)
 - [DAY 2 TUE] [프로그래머스 다음 큰 숫자](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week9/Tue)
 - [DAY 3 WED] [프로그래머스 오픈채팅방](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week9/Wed)
-- [DAY 4 THU] 
-- [DAY 5 FRI] 
+- [DAY 4 THU] 어린이날
+- [DAY 5 FRI] 깃 특강
 
 ### Week 10 P Stage 
 
