@@ -88,7 +88,7 @@
 
 ### Week 10 P Stage 
 
-- [DAY 1 MON] 
+- [DAY 1 MON]  [백준 단어 숫학](https://www.acmicpc.net/problem/1339)
 - [DAY 2 TUE] 
 - [DAY 3 WED] 
 - [DAY 4 THU] 
