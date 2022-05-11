@@ -90,7 +90,7 @@
 
 - [DAY 1 MON] [백준 단어 숫학](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week10/Mon)
 - [DAY 2 TUE] [프로그래머스 가장 먼 노드](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week10/Tue)
-- [DAY 3 WED] 
+- [DAY 3 WED] [금과 은 운반하기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week10/Wed)
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
 
