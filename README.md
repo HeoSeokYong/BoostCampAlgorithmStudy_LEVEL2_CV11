@@ -18,7 +18,7 @@
 
 - [DAY 1 MON] 타운홀미팅 및 그라운드룰 설정 
 - [DAY 2 TUE] [프로그래머스 피로도](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week1/Tue)
-- [DAY 3 WED] 대통령 선거 
+- [DAY 3 WED] <span style="color:red">휴일: 대통령 선거</span>
 - [DAY 4 THU] [프로그래머스 주식가격](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week1/Thu)
 - [DAY 5 FRI] [백준 Z](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week1/Fri)
 
@@ -83,8 +83,8 @@
 - [DAY 1 MON] [백준 숨바꼭질](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week9/Mon)
 - [DAY 2 TUE] [프로그래머스 다음 큰 숫자](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week9/Tue)
 - [DAY 3 WED] [프로그래머스 오픈채팅방](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week9/Wed)
-- [DAY 4 THU] 어린이날
-- [DAY 5 FRI] 깃 특강
+- [DAY 4 THU] <span style="color:red">휴일: 어린이날</span>
+- [DAY 5 FRI] <span style="color:red">특강: 깃 특강</span>
 
 ### Week 10 P Stage 
 
