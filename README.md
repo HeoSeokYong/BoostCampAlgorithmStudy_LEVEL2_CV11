@@ -96,8 +96,8 @@
 
 ### Week 11 Product Serving
 
-- [DAY 1 MON] [프로그래머스 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
-- [DAY 2 TUE] 
+- [DAY 1 MON] [프로그래머스 카펫](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Mon)
+- [DAY 2 TUE] [프로그래머스 짝지어 제거하기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Tue)
 - [DAY 3 WED] 
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
