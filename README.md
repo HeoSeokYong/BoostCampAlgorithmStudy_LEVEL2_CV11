@@ -98,7 +98,7 @@
 
 - [DAY 1 MON] [프로그래머스 카펫](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Mon)
 - [DAY 2 TUE] [프로그래머스 짝지어 제거하기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Tue)
-- [DAY 3 WED] 
+- [DAY 3 WED] [프로그래머스 행렬 테두리 회전하기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Wed)
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
 
