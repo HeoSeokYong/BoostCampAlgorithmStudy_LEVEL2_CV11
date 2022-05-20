@@ -100,7 +100,7 @@
 - [DAY 2 TUE] [프로그래머스 짝지어 제거하기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Tue)
 - [DAY 3 WED] [프로그래머스 행렬 테두리 회전하기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Wed)
 - [DAY 4 THU] 
-- [DAY 5 FRI] [백준 전깃줄](https://www.acmicpc.net/problem/2565)
+- [DAY 5 FRI] [백준 전깃줄](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Fri)
 
 ### Week 12 Product Serving
 
