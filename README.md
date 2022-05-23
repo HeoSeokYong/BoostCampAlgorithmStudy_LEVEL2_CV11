@@ -99,7 +99,7 @@
 - [DAY 1 MON] [프로그래머스 카펫](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Mon)
 - [DAY 2 TUE] [프로그래머스 짝지어 제거하기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Tue)
 - [DAY 3 WED] [프로그래머스 행렬 테두리 회전하기](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Wed)
-- [DAY 4 THU] 
+- [DAY 4 THU] [백준 비슷한 단어](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Thu)
 - [DAY 5 FRI] [백준 전깃줄](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week11/Fri)
 
 ### Week 12 Product Serving
