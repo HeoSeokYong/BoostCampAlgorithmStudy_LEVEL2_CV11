@@ -104,7 +104,7 @@
 
 ### Week 12 Product Serving
 
-- [DAY 1 MON]  
+- [DAY 1 MON] [프로그래머스 여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164#)
 - [DAY 2 TUE] 
 - [DAY 3 WED] 
 - [DAY 4 THU] 
