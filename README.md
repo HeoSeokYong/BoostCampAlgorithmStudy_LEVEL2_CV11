@@ -106,7 +106,7 @@
 
 - [DAY 1 MON] [프로그래머스 여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164#)
 - [DAY 2 TUE] 
-- [DAY 3 WED] 
+- [DAY 3 WED] [프로그래머스 합승 택시 요금](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week12/Wed)
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
 
