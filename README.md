@@ -108,7 +108,7 @@
 - [DAY 2 TUE] 
 - [DAY 3 WED] [프로그래머스 합승 택시 요금](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week12/Wed)
 - [DAY 4 THU] [프로그래머스 네트워크](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week12/Thu)
-- [DAY 5 FRI] 
+- [DAY 5 FRI] [백준 습격받은 도시](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week12/Fri)
 
 ### Week 13 Product Serving
 
