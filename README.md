@@ -114,7 +114,7 @@
 
 - [DAY 1 MON] [백준 ABCDE](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week13/Mon)
 - [DAY 2 TUE] [프로그래머스 위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
-- [DAY 3 WED] 
+- [DAY 3 WED] 지방선거
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
 
