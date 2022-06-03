@@ -116,7 +116,7 @@
 - [DAY 2 TUE] [프로그래머스 위장](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week13/Tue)
 - [DAY 3 WED] 지방선거
 - [DAY 4 THU] [프로그래머스 이중우선순위큐](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week13/Thu)
-- [DAY 5 FRI] [프로그래머스 124 나라의 숫자]((https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week13/Fri)
+- [DAY 5 FRI] [프로그래머스 124 나라의 숫자](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week13/Fri)
 
 
 ### Week 14 Product Serving
