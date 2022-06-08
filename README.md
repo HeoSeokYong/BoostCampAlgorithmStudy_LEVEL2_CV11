@@ -123,7 +123,7 @@
 
 - [DAY 1 MON]  
 - [DAY 2 TUE] 
-- [DAY 3 WED] 
+- [DAY 3 WED] [프로그래머스 가장 긴 펠린드롬](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week14/Wed)
 - [DAY 4 THU] 
 - [DAY 5 FRI] 
 
