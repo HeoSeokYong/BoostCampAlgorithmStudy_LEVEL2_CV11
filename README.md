@@ -131,4 +131,4 @@
 
 - [DAY 1 MON] [프로그래머스 전화번호 목록](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week15/Mon)
 - [DAY 2 TUE] [프로그래머스 방문 길이](https://github.com/HeoSeokYong/BoostCampAlgorithmStudy_LEVEL2_CV11/tree/main/week15/Tue)
-- [DAY 3 WED] 
+- [DAY 3 WED] 수료식
